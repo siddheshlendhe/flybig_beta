@@ -1,0 +1,14 @@
+.iframe.search-widget-flight{
+    width: 80%;
+    height: 410px;
+    position: absolute;
+    border: none;
+    top: 25%;
+    z-index: 1;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    overflow: hidden; 
+}
+

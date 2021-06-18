@@ -1,0 +1,1 @@
+(window.travelpayoutsWpPlugin=window.travelpayoutsWpPlugin||[]).push([[2],{495:function(n,t,u){u.e(28).then(u.t.bind(null,665,7))}}]);

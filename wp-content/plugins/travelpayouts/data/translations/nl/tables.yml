@@ -1,0 +1,132 @@
+---
+flights:
+  departure_at: 'Vertrek op'
+  number_of_changes: Tussenstops
+  button_column_title: 'Tickets vinden'
+  button:
+    'Tickets from {price}': 'Tickets vanaf {price}'
+    'OW tickets from {price}': 'Tickets vanaf {price}'
+    'Find tickets': 'Tickets vinden'
+  price: Prijs
+  trip_class: 'Klasse'
+  distance: Afstand
+  return_at: 'Terugkomst op'
+  airline_logo: Luchtvaartmaatschappij
+  flight_number: 'Vluchtnummer'
+  flight: Vlucht
+  airline: Luchtvaartmaatschappij
+  destination: Bestemming
+  origin_destination: 'Herkomst - Bestemming'
+  place: Plaats
+  direction: Richting
+  origin: Herkomst
+  found_at: 'Gevonden op'
+  price_distance: Prijs/afstand
+  title:
+    'The cheapest round-trip tickets from {origin} to {destination}': 'De goedkoopste retourtickets van {origin} naar {destination}'
+    'The cheapest flights from {origin} to {destination} for the year ahead': 'De goedkoopste vluchten van {origin} naar {destination} voor het komende jaar'
+    'The cheapest flights for this month from {origin} to {destination}': 'De goedkoopste vluchten voor deze maand van {origin} naar {destination}'
+    'Flights that have been found on our website': 'Vluchten die op onze website gevonden zijn'
+    'Direct flights from {origin}': 'Directe vluchten van {origin}'
+    'Cheap flights from {origin}': 'Goedkope vluchten van {origin}'
+    'Direct flights from {origin} to {destination}': 'Directe vluchten van {origin} naar {destination}'
+    'Cheap flights to {destination}': 'Goedkope vluchten naar {destination}'
+    'Flight prices for a month from {origin} to {destination}, one way': 'Vluchtprijzen voor een maand van {origin} naar {destination}, enkele reis'
+    'Flights from {origin}': 'Vluchten van {origin}'
+    'Airline''s popular flights: {airline}': 'Populaire vluchten van de luchtvaartmaatschappij: {airline}'
+    'Flights from {origin} to {destination} for the next few days': 'Vluchten van {origin} naar {destination} voor de volgende paar dagen'
+  class_name:
+    Economy: 'Economy'
+    Business: 'Business'
+    'First class': 'First class'
+  stops:
+    Direct: 'Direct'
+    '1 Stop': '1 stop'
+    '2 Stops': '2 stops'
+hotel:
+  name: Hotel
+  stars: Sterren
+  discount: Korting
+  old_price_and_new_price: 'Prijs voor en na korting'
+  button_column_title: 'Data kiezen'
+  button:
+    'View Hotel': 'Hotel bekijken'
+  price_pn: 'Prijs per nacht'
+  old_price_and_discount: 'Prijs vóór korting'
+  distance: Afstand
+  old_price_pn: 'Prijs vóór korting'
+  rating: Beoordeling
+  title:
+    'Hotels in {location}: {selection_name}': 'Hotels in {location}: {selection_name}'
+    'Hotels in {location}: {selection_name} ({dates})': 'Hotels in {location}: {selection_name} ({dates})'
+  selections:
+    'Top hotels': 'Populair'
+    Popularity: 'Populariteit'
+    Cheap: 'Goedkoop'
+    Distance: 'Afstand'
+    Rating: 'Rating'
+    '0 stars': '0 sterren'
+    '1 star': '1 ster'
+    '2 stars': '2 sterren'
+    '3 stars': '3 sterren'
+    '4 stars': '4 sterren'
+    '5 stars': '5 sterren'
+    Luxury: 'Luxe'
+    Expensive: 'Duur'
+    'Hotels in the center': 'Hotels in centrum'
+    Pool: 'Zwembad'
+    'Gay friendly': 'Gay-friendly'
+    'Smoking friendly': 'Rookvriendelijk'
+    Restaurant: 'Restaurant'
+    'Pet friendly': 'Huisdiervriendelijk'
+    'Russian guests': 'Russische gasten'
+    'Sea view': 'Zeezicht'
+    'Lake view': 'Uitzicht op meer'
+    'River view': 'Uitzicht op rivier'
+    'Panoramic view': 'Panoramisch uitzicht'
+    'Cheap hotels': 'Goedkope hotels'
+    tophotels: 'Populair'
+    popularity: 'Populariteit'
+    cheap: 'Goedkoop'
+    distance: 'Afstand'
+    rating: 'Rating'
+    0-stars: '0 sterren'
+    1-star: '1 ster'
+    2-stars: '2 sterren'
+    3-stars: '3 sterren'
+    4-stars: '4 sterren'
+    5-stars: '5 sterren'
+    0stars: '0 sterren'
+    1star: '1 ster'
+    2stars: '2 sterren'
+    3stars: '3 sterren'
+    4stars: '4 sterren'
+    5stars: '5 sterren'
+    luxury: 'Luxe'
+    expensive: 'Duur'
+    center: 'Hotels in centrum'
+    pool: 'Zwembad'
+    gay: 'Gay-friendly'
+    smoke: 'Rookvriendelijk'
+    restaurant: 'Restaurant'
+    pets: 'Huisdiervriendelijk'
+    russians: 'Russische gasten'
+    sea_view: 'Zeezicht'
+    lake_view: 'Uitzicht op meer'
+    river_view: 'Uitzicht op rivier'
+    Panoramic_view: 'Panoramisch uitzicht'
+    price: 'Goedkope hotels'
+railway:
+  train: 'Train number'
+  route: Route
+  departure: Departure
+  arrival: Arrival
+  duration: Duration
+  prices: Prices
+  dates: Dates
+  origin: Origin
+  destination: Destination
+  departure_time: 'Departure time'
+  arrival_time: 'Arrival time'
+  route_first_station: 'Route''s first station'
+  route_last_station: 'Route''s last station'

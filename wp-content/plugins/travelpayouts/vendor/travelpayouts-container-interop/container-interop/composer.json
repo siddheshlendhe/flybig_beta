@@ -1,0 +1,16 @@
+{
+    "name": "travelpayouts-container-interop/container-interop",
+    "type": "library",
+    "description": "Promoting the interoperability of container objects (DIC, SL, etc.)",
+    "homepage": "https://github.com/container-interop/container-interop",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Travelpayouts\\Vendor\\Interop\\Container\\": "src/Interop/Container/"
+        }
+    },
+    "require": {
+        "travelpayouts-psr/container": "1.0.0"
+    },
+    "version": "1.2.0"
+}
